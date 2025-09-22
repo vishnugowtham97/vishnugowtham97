@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **with getting started in the industry, such as guidance on best practices, code reviews, and mentorship.**
 
-- 👨‍💻 All of my projects are available at (https://vishnugowtham-portfolio-resume.netlify.app/), (https://vishnu-portfoli0.netlify.app/)
+- 👨‍💻 All of my projects are available at (https://b-vishnu-portfolio.webflow.io/)
 
 - 💬 Ask me about **my educational background in web development, my proficiency in HTML, CSS, JavaScript, React, Node, and my eagerness to learn and grow as a developer.**
 
