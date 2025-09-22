@@ -18,8 +18,6 @@
 
 - 📫 How to reach me **vishnugowtham97@gmail.com**
 
-- 📄 Know about my experiences [https://vishnugowtham-resume.netlify.app/](https://vishnugowtham-resume.netlify.app/)
-
 - ⚡ Fun fact **I enjoy attending tech meetups and networking events to stay updated with the latest trends and connect with like-minded individuals.**
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 <h3 align="left">Connect with me:</h3>
